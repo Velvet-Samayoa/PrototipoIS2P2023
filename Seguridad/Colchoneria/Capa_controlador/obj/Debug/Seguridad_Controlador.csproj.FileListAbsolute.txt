@@ -1,0 +1,20 @@
+C:\Users\Home\Desktop\Bancos Ultimo\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\obj\Debug\Seguridad_Controlador.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\Bancos Ultimo\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\obj\Debug\Seguridad_Controlador.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Bancos Ultimo\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\bin\Debug\Seguridad_Controlador.dll
+C:\Users\Home\Desktop\Bancos Ultimo\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\bin\Debug\Seguridad_Controlador.pdb
+C:\Users\Home\Desktop\Bancos Ultimo\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\bin\Debug\eCryptography.dll
+C:\Users\Home\Desktop\Bancos Ultimo\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\bin\Debug\Modelo_Seguridad.dll
+C:\Users\Home\Desktop\Bancos Ultimo\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\Home\Desktop\Bancos Ultimo\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\obj\Debug\Seguridad_Controlador.csproj.CopyComplete
+C:\Users\Home\Desktop\Bancos Ultimo\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\obj\Debug\Seguridad_Controlador.dll
+C:\Users\Home\Desktop\Bancos Ultimo\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\obj\Debug\Seguridad_Controlador.pdb
+C:\Users\Home\Desktop\CLIENTES - VENTAS\Seguridad\Colchoneria\Capa_controlador\bin\Debug\Seguridad_Controlador.dll
+C:\Users\Home\Desktop\CLIENTES - VENTAS\Seguridad\Colchoneria\Capa_controlador\bin\Debug\Seguridad_Controlador.pdb
+C:\Users\Home\Desktop\CLIENTES - VENTAS\Seguridad\Colchoneria\Capa_controlador\bin\Debug\eCryptography.dll
+C:\Users\Home\Desktop\CLIENTES - VENTAS\Seguridad\Colchoneria\Capa_controlador\bin\Debug\Modelo_Seguridad.dll
+C:\Users\Home\Desktop\CLIENTES - VENTAS\Seguridad\Colchoneria\Capa_controlador\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\Home\Desktop\CLIENTES - VENTAS\Seguridad\Colchoneria\Capa_controlador\obj\Debug\Seguridad_Controlador.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\CLIENTES - VENTAS\Seguridad\Colchoneria\Capa_controlador\obj\Debug\Seguridad_Controlador.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\CLIENTES - VENTAS\Seguridad\Colchoneria\Capa_controlador\obj\Debug\Seguridad_Controlador.csproj.CopyComplete
+C:\Users\Home\Desktop\CLIENTES - VENTAS\Seguridad\Colchoneria\Capa_controlador\obj\Debug\Seguridad_Controlador.dll
+C:\Users\Home\Desktop\CLIENTES - VENTAS\Seguridad\Colchoneria\Capa_controlador\obj\Debug\Seguridad_Controlador.pdb

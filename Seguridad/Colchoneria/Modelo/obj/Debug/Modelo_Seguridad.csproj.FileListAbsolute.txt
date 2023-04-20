@@ -1,0 +1,12 @@
+C:\Users\Home\Desktop\Bancos Ultimo\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Modelo\bin\Debug\Modelo_Seguridad.dll
+C:\Users\Home\Desktop\Bancos Ultimo\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Modelo\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\Home\Desktop\Bancos Ultimo\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\Bancos Ultimo\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Bancos Ultimo\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.dll
+C:\Users\Home\Desktop\Bancos Ultimo\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.pdb
+C:\Users\Home\Desktop\CLIENTES - VENTAS\Seguridad\Colchoneria\Modelo\bin\Debug\Modelo_Seguridad.dll
+C:\Users\Home\Desktop\CLIENTES - VENTAS\Seguridad\Colchoneria\Modelo\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\Home\Desktop\CLIENTES - VENTAS\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\CLIENTES - VENTAS\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\CLIENTES - VENTAS\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.dll
+C:\Users\Home\Desktop\CLIENTES - VENTAS\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.pdb
